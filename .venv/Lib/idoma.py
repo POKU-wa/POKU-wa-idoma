@@ -8,9 +8,19 @@ idoma_dictionary = {
     'bottle': "ikpemu",
     'spoon': "uko",
     'dress': "uwe",
-    'shoes': "ablakpa"
+    'shoes': "ablakpa",
+    'welcome': "adoo",
+    'thank you': "anya",
+    'mother': "abeba",
+    'God': "Owoicho",
+    'ancestor spirit': "alekwut",
+    'work': "ama",
+    'leg': "ukwu",
+    'yam': "ikpa",
+    'goat': "obe",
+    'you': "unu"
 }
-k = 10
+k = 20
 while k > 0:
 
     word = input('enter an english word:')
