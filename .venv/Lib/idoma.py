@@ -18,9 +18,19 @@ idoma_dictionary = {
     'leg': "ukwu",
     'yam': "ikpa",
     'goat': "obe",
-    'you': "unu"
-}
-k = 20
+    'you': "unu",
+    'war': "obu",
+    'knife': "okpa",
+    'day': "ojo",
+    'forest': "agbo",
+    'mouth': "onu",
+    'life': "ola",
+    'ground': "ikpa",
+    'light': "ihe",
+    'shadow': "ojiji",
+    'oyan': "sun",}
+
+k = 30
 while k > 0:
 
     word = input('enter an english word:')
